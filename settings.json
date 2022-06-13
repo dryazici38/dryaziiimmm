@@ -1,0 +1,19 @@
+{
+  "tokens": [
+    "OTgzNzI1ODIyNDg3NzExODA0.GDXhXn.3uhJvg0CoQDxa9CsCu47dxr0QKkiknm_a9Jlh8",
+    "OTg0MDEyMzcwNzkzODY5MzIy.G0ozLC.SOMcTqIPuuULEvLqF-e0Q1pwh0Oen0TJrCVoc0",
+    "OTgzNjkzNTQxNzI3NDA4MTM4.GOppCH.Wl4Gq4r706GrJYO1kIJwbaPO9aDsCY8dmE9pwI"],
+  
+  "channels": [
+    "983479571271778304",
+    "983481599456837693",
+    "983488678498275408" ],
+  "staffRoles": [
+    "983483464672243762"],
+
+  "unregisterRoles": [
+    "983820890800263218"],
+  
+  "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
+  "staffSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455065609076806/yetkili.mp3"
+}
